@@ -37,7 +37,7 @@ step shouldn't take as long as the previous build step. Once complete, run
 ```hello-express```. For me, it was 117.77 MB. A massive reduction in size!
 
 Now to run the image, run 
-```docker run -dp 3000:3000 --name=hello-express first-docekr-app``` and then
+```docker run -dp 3001:3000 --name=hello-express hello-express``` and then
 open up ```localhost:3000``` in your preferred browser.
 
 ## Clean up (Optional)
