@@ -1,0 +1,6 @@
+# Node modules folder
+node_modules
+
+# Compiled JS folders
+dist
+build

@@ -1,0 +1,15 @@
+# Node modules
+node_modules
+
+# License file
+LICENSE
+
+# Compiled JS folders
+build
+dist
+
+# VSCode folder
+.vscode
+
+# Readme
+README.md
